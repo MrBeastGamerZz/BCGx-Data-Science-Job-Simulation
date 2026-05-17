@@ -42,7 +42,6 @@ As a BCG X Data Scientist, I was tasked with:
 | **Certificate** | [View Certificate](certificates/) |
 | **Simulation Link** | [The Forage — BCGX Data Science](https://www.theforage.com/simulations/bcg/data-science-ccdz) |
 
-> ⚠️ Per Forage's referencing policy, this is listed as a **virtual experience / extracurricular activity** — not work or internship experience. [View Policy](https://cdn-assets.theforage.com/Forage+Referencing+Policy+V5.pdf)
 
 ---
 
